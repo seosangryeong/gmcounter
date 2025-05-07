@@ -2,7 +2,7 @@
 
 ## Gmcounter
 ### 환경
-- 라즈베리파이4 model b , ubuntu20.04, ros1 
+rasberrypi4 model b , ubuntu20.04, ros1 
 ### 설치 순서
 1. cakin_ws/src에 git clone
 2. cakin_make
