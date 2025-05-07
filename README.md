@@ -12,3 +12,4 @@ Gmcounter
   source /home/raspi/catkin_ws/devel/setup.bash; \
   rosrun gmcounter gmcounter.py\
 "
+일반 rosrun으로 안하는 이유는 gpio 권한설정이 안되어 sudo 명령어로 실행해야하기 때문
