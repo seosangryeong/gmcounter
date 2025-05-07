@@ -1,9 +1,9 @@
 # sensors
 
 ### Gmcounter
-##### 환경
+#### 환경
 rasberrypi4 model b , ubuntu20.04, ros1 
-##### 설치 순서
+#### 설치 순서
 1. cakin_ws/src에 git clone
 2. cakin_make
 3. source devel/setup.bash
@@ -13,5 +13,5 @@ rasberrypi4 model b , ubuntu20.04, ros1
   source /home/raspi/catkin_ws/devel/setup.bash; \
   rosrun gmcounter gmcounter.py\
 "
-##### 참고
+#### 참고
 일반 rosrun으로 안하는 이유는 gpio 권한설정이 안되어 sudo 명령어로 실행해야하기 때문
