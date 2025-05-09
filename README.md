@@ -3,7 +3,7 @@
 ### Gmcounter
 #### 환경
 rasberrypi4 model b , ubuntu20.04, ros1 
-디지털핀 -> GPIO17번
+,디지털핀 -> GPIO17번
 #### 설치 순서
 1. cakin_ws/src에 git clone
 2. cakin_make
