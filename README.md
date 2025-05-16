@@ -15,4 +15,4 @@ rasberrypi4 model b , ubuntu20.04, ros1
   rosrun gmcounter gmcounter.py\
 "
 #### 참고
-일반 rosrun으로 안하는 이유는 gpio 권한설정이 안되어 sudo 명령어로 실행해야하기 때문
+gpio 권한설정이 안되어 sudo 명령어로 실행해야 함.
