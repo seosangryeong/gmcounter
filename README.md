@@ -13,9 +13,9 @@ rasberrypi4 model b , ubuntu20.04, ros1
   rosrun gmcounter gmcounter.py\
 "
 #### 참고
-gpio 권한설정이 안되어 sudo 명령어로 실행해야 함.  <br><br>
+gpio 권한설정이 안되어 sudo 명령어로 실행해야 함.  <br><br><br><br>
+####  
 
-  
 
 ### 🟩Gmcounter + Isaac sim (TCP 통신)
 
