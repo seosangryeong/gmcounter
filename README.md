@@ -1,5 +1,3 @@
-# sensors
-
 ### Gmcounter
 #### 환경
 rasberrypi4 model b , ubuntu20.04, ros1 
