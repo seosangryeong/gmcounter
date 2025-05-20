@@ -1,4 +1,4 @@
-### Gmcounter
+### Gmcounter ROS Package
 #### 환경
 rasberrypi4 model b , ubuntu20.04, ros1 
 ,디지털핀 -> GPIO17번
