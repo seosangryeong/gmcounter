@@ -16,6 +16,9 @@ rasberrypi4 model b , ubuntu20.04, ros1
 gpio 권한설정이 안되어 sudo 명령어로 실행해야 함.
 
 
+### Gmcounter + Isaac sim (TCP 통신)
+
+
 **위경도 m 변환**
 
 **ecef 변환**
