@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="gmcounter_ros" type="gmcounter_ros.py" name="gmcounter_ros" output="screen">
+    <param name="pin" value="17" />
+  </node>
+</launch>
