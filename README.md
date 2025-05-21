@@ -1,4 +1,4 @@
-### 🟩Gmcounter ROS Package
+### 🟩 Gmcounter ROS Package
 #### 환경
 rasberrypi4 model b , ubuntu20.04, ros1 
 ,디지털핀 -> GPIO17번
@@ -17,7 +17,7 @@ gpio 권한설정이 필요하기 때문에 sudo 명령어로 실행해야 함. 
 ####  
 
 
-### 🟩Gmcounter + Isaac sim (TCP 통신)
+### 🟩 Gmcounter + Isaac sim (TCP 통신)
 
 
 **위경도 m 변환**
