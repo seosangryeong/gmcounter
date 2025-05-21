@@ -1,5 +1,0 @@
-<launch>
-  <node pkg="gmcounter" type="gmcounter.py" name="gmcounter" output="screen">
-    <param name="pin" value="17" />
-  </node>
-</launch>
