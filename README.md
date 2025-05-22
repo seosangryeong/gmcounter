@@ -12,6 +12,7 @@ rasberrypi4 model b , ubuntu20.04, ros1
   source /home/raspi/catkin_ws/devel/setup.bash; \
   rosrun gmcounter gmcounter.py\
 "
+alias 설정을 해서 실행하면 편함
 #### 참고
 gpio 권한설정이 필요하기 때문에 sudo 명령어로 실행해야 함.  <br><br><br><br>
 ####  
