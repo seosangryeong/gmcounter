@@ -7,14 +7,9 @@ rasberrypi4 model b , ubuntu20.04, ros1
 2. cakin_make
 3. source devel/setup.bash
 4. roscore 
-5. sudo bash -lc "\
-  source /opt/ros/noetic/setup.bash; \
-  source /home/raspi/catkin_ws/devel/setup.bash; \
-  rosrun gmcounter gmcounter.py\
-"  
-alias 설정을 해서 실행하면 편함
-#### 참고
-gpio 권한설정이 필요하기 때문에 sudo 명령어로 실행해야 함.  <br><br><br><br>
+5. rosrun gmcounter gmcounter.py  <br><br><br><br>
+   
+
 ####  
 
 
