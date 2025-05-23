@@ -37,7 +37,7 @@ def TUBE_IMPULSE1(channel):
 
 # GPIO 설정
 GPIO.setmode(GPIO.BCM)
-GPIO.setup(GM_PIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+GPIO.setup(GM_PIN, GPIO.IN, pull_up_down=GPIO.PUD_OFF)
 GPIO.add_event_detect(GM_PIN, GPIO.FALLING, callback=TUBE_IMPULSE1, bouncetime=10)
 
 try:
