@@ -9,13 +9,8 @@ import time
 """
 
 ros로 cpm 값 퍼블리시 하는 코드.
-gpio 권한 문제가 있어 아래 명령어로 실행해야 함.
 
-sudo bash -lc "\
-  source /opt/ros/noetic/setup.bash; \
-  source /home/raspi/catkin_ws/devel/setup.bash; \
-  rosrun gmcounter gmcounter.py\
-"
+rosrun gmcounter gmcounter.py
 
 """
 
