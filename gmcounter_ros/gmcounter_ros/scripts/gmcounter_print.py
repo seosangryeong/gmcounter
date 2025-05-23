@@ -5,8 +5,7 @@ import time
 rasberry pi4 model b , gmcounter 사용
 인터럽트, cpm 출력하는 코드
 
-GPIO를 사용하기 위해서는 루트 권한으로 실행해야함.
-터미널에서 sudo python3 gmcounter_print.py
+python3 gmcounter_print.py
 """
 
 WINDOWING = 60
